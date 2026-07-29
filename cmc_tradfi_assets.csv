@@ -1,0 +1,199 @@
+cmc_id,rank,name,symbol,slug,underlying_name
+,,SK hynix Inc (Derivatives),000660,sk-hynix-inc-derivatives,SK hynix Inc
+,,Crude Oil Futures (Derivatives),CL,crude-oil-futures-derivatives,Crude Oil Futures
+,,Gold (Derivatives),XAU,gold-derivatives,Gold
+,,Natural Gas (Derivatives),NATGAS,natural-gas-derivatives,Natural Gas
+,,Silver (Derivatives),XAG,silver-derivatives,Silver
+38152.0,7433.0,Tesla (Derivatives),TSLA,tesla-derivatives,Tesla
+38153.0,7434.0,NVIDIA (Derivatives),NVDA,nvidia-derivatives,NVIDIA
+38154.0,7435.0,Circle Internet Group (Derivatives),CRCL,circle-internet-group-derivatives,Circle Internet Group
+39460.0,7612.0,Platinum (Derivatives),XPT,platinum-derivatives,Platinum
+39467.0,7616.0,Copper (Derivatives),XCU,copper-derivatives,Copper
+39468.0,7617.0,Nasdaq index (Derivatives),IXIC,nasdaq-index-derivatives,Nasdaq index
+39469.0,7618.0,Micron Technology Inc (Derivatives),MU,micron-technology-inc-derivatives,Micron Technology Inc
+39470.0,7619.0,Alphabet Inc (Derivatives),GOOGL,alphabet-inc-derivatives,Alphabet Inc
+39471.0,7620.0,Amazon.com Inc (Derivatives),AMZN,amazon-com-inc-derivatives,Amazon.com Inc
+39472.0,7621.0,Intel Corp (Derivatives),INTC,intel-corp-derivatives,Intel Corp
+39473.0,7622.0,MicroStrategy Inc (Derivatives),MSTR,microstrategy-inc-derivatives,MicroStrategy Inc
+39474.0,7623.0,Standard and Poor's 500 index (Derivatives),S&P500,standard-and-poors-500-index-derivatives,Standard and Poor's 500 index
+39475.0,7624.0,Palantir Technologies Inc (Derivatives),PLTR,palantir-technologies-inc-derivatives,Palantir Technologies Inc
+39478.0,7625.0,Robinhood Markets (Derivatives),HOOD,robinhood-markets-derivatives,Robinhood Markets
+39479.0,7626.0,Netflix (Derivatives),NFLX,netflix-derivatives,Netflix
+39481.0,7628.0,Palladium (Derivatives),XPD,palladium-derivatives,Palladium
+39482.0,7629.0,Oracle Corp (Derivatives),ORCL,oracle-corp-derivatives,Oracle Corp
+39483.0,7630.0,Coinbase Global Inc (Derivatives),COIN,coinbase-global-inc-derivatives,Coinbase Global Inc
+39485.0,7631.0,OpenAI (Derivatives),OPENAI,openai-derivatives,OpenAI
+39486.0,7632.0,Alibaba Group Holding Limited (Derivatives),BABA,alibaba-group-holding-limited-derivatives,Alibaba Group Holding Limited
+39489.0,7634.0,Advanced Micro Devices Inc (Derivatives),AMD,advanced-micro-devices-inc-derivatives,Advanced Micro Devices Inc
+39490.0,7635.0,Taiwan Semiconductor Manufacturing (Derivatives),TSM,taiwan-semiconductor-manufacturing-derivatives,Taiwan Semiconductor Manufacturing
+39491.0,7636.0,Apple Inc (Derivatives),AAPL,apple-inc-derivatives,Apple Inc
+39493.0,7637.0,iShares Russell 2000 ETF (Derivatives),IWM,ishares-russell-2000-etf-derivatives,iShares Russell 2000 ETF
+39495.0,7638.0,Microsoft Corporation (Derivatives),MSFT,microsoft-corporation-derivatives,Microsoft Corporation
+39496.0,7639.0,Anthropic (Derivatives),ANTHROPIC,anthropic-derivatives,Anthropic
+39498.0,7641.0,VanEck Semiconductor ETF (Derivatives),SMH,vaneck-semiconductor-etf-derivatives,VanEck Semiconductor ETF
+39499.0,7642.0,Rivian Automotive Inc (Derivatives),RIVN,rivian-automotive-inc-derivatives,Rivian Automotive Inc
+39501.0,7644.0,SpaceX (Derivatives),SPCX,spacex-derivatives,SpaceX
+39503.0,7645.0,Samsung Electronics Co Ltd (Derivatives),005930,samsung-electronics-co-ltd-derivatives,Samsung Electronics Co Ltd
+39504.0,7646.0,State Street Technology Select Sector SPDR ETF (Derivatives),XLK,state-street-technology-select-sector-spdr-etf-derivatives,State Street Technology Select Sector SPDR ETF
+39507.0,7648.0,SanDisk Corporation (Derivatives),SNDK,sandisk-corporation-derivatives,SanDisk Corporation
+39509.0,7649.0,Eli Lilly and Company (Derivatives),LLY,eli-lilly-and-company-derivatives,Eli Lilly and Company
+39510.0,7650.0,Roundhill Magnificent Seven ETF (Derivatives),MAGS,roundhill-magnificent-seven-etf-derivatives,Roundhill Magnificent Seven ETF
+39512.0,7651.0,Global X Robotics and Artificial Intelligence ETF (Derivatives),BOTZ,global-x-robotics-and-artificial-intelligence-etf-derivatives,Global X Robotics and Artificial Intelligence ETF
+39513.0,7652.0,Meta Platforms Inc (Derivatives),META,meta-platforms-inc-derivatives,Meta Platforms Inc
+39514.0,7653.0,USA Rare Earth Inc (Derivatives),USAR,usa-rare-earth-inc-derivatives,USA Rare Earth Inc
+39515.0,7654.0,United States Oil Fund LP (Derivatives),USO,united-states-oil-fund-derivatives,United States Oil Fund LP
+39516.0,7655.0,Sprott Uranium Miners ETF (Derivatives),URNM,sprott-uranium-miners-etf-derivatives,Sprott Uranium Miners ETF
+39517.0,7656.0,QQQ (Derivatives),QQQ,ustech-derivatives,QQQ
+39573.0,7664.0,Hyundai Motor Co (Derivatives),005380,hyundai-motor-co-derivatives,Hyundai Motor Co
+39629.0,7672.0,Applovin (Derivatives),APP,applovin-derivatives,Applovin
+39630.0,7673.0,UnitedHealth Group (Derivatives),UNH,unitedhealth-group-derivatives,UnitedHealth Group
+39631.0,7674.0,Cisco Systems (Derivatives),CSCO,cisco-systems-derivatives,Cisco Systems
+39633.0,7675.0,Reddit (Derivatives),RDDT,reddit-derivatives,Reddit
+39634.0,7676.0,IBM (Derivatives),IBM,ibm-derivatives,IBM
+39654.0,7681.0,Ishares Msci South Korea ETF (Derivatives),EWY,ishares-msci-south-korea-etf-derivatives,Ishares Msci South Korea ETF
+39669.0,7689.0,Global X Uranium ETF (Derivatives),URA,global-x-uranium-etf-derivatives,Global X Uranium ETF
+39670.0,7690.0,Bitmine Immersion Technologies (Derivatives),BMNR,bitmine-immersion-technologies-derivatives,Bitmine Immersion Technologies
+39677.0,7691.0,ASML Holding NV (Derivatives),ASML,asml-holding-nv-derivatives,ASML Holding NV
+39685.0,7692.0,iShares MSCI Japan ETF (Derivatives),EWJ,ishares-msci-japan-etf-derivatives,iShares MSCI Japan ETF
+39725.0,7696.0,PayPay Corp (Derivatives),PAYP,paypay-corp-derivatives,PayPay Corp
+39732.0,7698.0,State Street SPDR S&P 500 ETF Trust (Derivatives),SPY,state-street-spdr-sp-500-etf-trust-derivatives,State Street SPDR S&P 500 ETF Trust
+39804.0,7700.0,Brent Oil (Derivatives),BZ,brent-oil-derivatives,Brent Oil
+39845.0,7710.0,iShares Silver Trust (Derivatives),SLV,ishares-silver-trust-derivatives,iShares Silver Trust
+39852.0,7712.0,Nikkei 225 (Derivatives),NI225,nikkei-225-derivatives,Nikkei 225
+39853.0,7713.0,KOSPI 200 Index (Derivatives),KS200,kospi-200-index-derivatives,KOSPI 200 Index
+39861.0,7714.0,PDD Holdings Inc (Derivatives),PDD,pdd-holdings-inc-derivatives,PDD Holdings Inc
+39871.0,7716.0,Broadcom Inc (Derivatives),AVGO,broadcom-inc-derivatives,Broadcom Inc
+39872.0,7717.0,Allbirds Inc (Derivatives),BIRD,allbirds-inc-derivatives,Allbirds Inc
+39928.0,7727.0,GameStop Corp (Derivatives),GME,gamestop-corp-derivatives,GameStop Corp
+39929.0,7728.0,Xiaomi Corp (Derivatives),1810,xiaomi-corp-derivatives,Xiaomi Corp
+39931.0,7729.0,Cerebras Systems (Derivatives),CBRS,cerebras-systems-derivatives,Cerebras Systems
+39932.0,7730.0,Qualcomm (Derivatives),QCOM,qualcomm-derivatives,Qualcomm
+39943.0,7735.0,State Street Energy Select Sector SPDR ETF (Derivatives),XLE,state-street-energy-select-sector-spdr-etf-derivatives,State Street Energy Select Sector SPDR ETF
+39944.0,7736.0,Lumentum Holdings (Derivatives),LITE,lumentum-holdings-derivatives,Lumentum Holdings
+39945.0,7737.0,Roundhill Memory ETF (Derivatives),DRAM,roundhill-memory-etf-derivatives,Roundhill Memory ETF
+39946.0,7738.0,Marvell Technology (Derivatives),MRVL,marvell-technology-derivatives,Marvell Technology
+39947.0,7739.0,Blackstone (Derivatives),BX,blackstone-derivatives,Blackstone
+39948.0,7740.0,Rocket Lab Corp (Derivatives),RKLB,rocket-lab-corp-derivatives,Rocket Lab Corp
+39949.0,7741.0,Ishares Msci Brazil ETF (Derivatives),EWZ,ishares-msci-brazil-etf-derivatives,Ishares Msci Brazil ETF
+39953.0,7743.0,eBay (Derivatives),EBAY,ebay-derivstives,eBay
+39954.0,7744.0,Zoom (Derivatives),ZM,zoom-derivatives,Zoom
+39958.0,7746.0,Pop Mart International Group Limited (Derivatives),POPMART,pop-mart-international-group-limited-derivatives,Pop Mart International Group Limited
+39960.0,7747.0,MiniMax Group (Derivatives),MINIMAX,minimax-group-derivatives,MiniMax Group
+39961.0,7748.0,Tencent Holdings Ltd (Derivatives),TENCENT,tencent-holdings-ltd-derivatives,Tencent Holdings Ltd
+39964.0,7749.0,Direxion Daily Semiconductor ETF (Derivatives),SOXL,direxion-daily-semiconductor-etf-derivatives,Direxion Daily Semiconductor ETF
+39989.0,7753.0,Global X Defense Tech ETF  (Derivatives),SHLD,global-x-defense-tech-etf-derivatives,Global X Defense Tech ETF
+39990.0,7754.0,Western Digital Corp (Derivatives),WDC,western-digital-corp-derivatives,Western Digital Corp
+39994.0,7756.0,Arm Holdings PLC - ADR (Derivatives),ARM,arm-holdings-plc-adr-derivatives,Arm Holdings PLC - ADR
+39995.0,7757.0,Coherent (Derivatives),COHR,coherent-derivatives,Coherent
+39996.0,7758.0,Home Depot Inc (Derivatives),HD,home-depot-inc-derivatives,Home Depot Inc
+39997.0,7759.0,Uber Technologies Inc (Derivatives),UBER,uber-technologies-inc-derivatives,Uber Technologies Inc
+39998.0,7760.0,Walt Disney Co (Derivatives),DIS,walt-disney-co-derivatives,Walt Disney Co
+40003.0,7764.0,Hyperliquid Strategies Inc (Derivatives),PURR,hyperliquid-strategies-inc-derivatives,Hyperliquid Strategies Inc
+40007.0,7765.0,"Fluence Energy, Inc. Class A Common Stock (Derivatives)",FLNC,fluence-energy-inc-class-a-common-stock-derivatives,"Fluence Energy, Inc. Class A Common Stock"
+40010.0,7766.0,Corning Inc (Derivatives),GLW,corning-inc-derivatives,Corning Inc
+40013.0,7767.0,JPmorgan Chase & Co (Derivatives),JPM,jpmorgan-chase-co-derivatives,JPmorgan Chase & Co
+40014.0,7768.0,Visa Inc (Derivatives),V,visa-inc-derivatives,Visa Inc
+40015.0,7769.0,Walmart Inc (Derivatives),WMT,walmart-inc-derivatives,Walmart Inc
+40016.0,7770.0,Berkshire Hathaway Inc Class B (Derivatives),BRKB,berkshire-hathaway-class-b-derivatives,Berkshire Hathaway Inc Class B
+40021.0,7772.0,Nebius Group NV (Derivatives),NBIS,nebius-group-nv-derivatives,Nebius Group NV
+40035.0,7778.0,GE Vernova Inc (Derivatives),GEV,ge-vernova-inc-derivatives,GE Vernova Inc
+40042.0,7782.0,iShares MSCI Taiwan ETF (Derivatives),EWT,ishares-msci-taiwan-etf-derivatives,iShares MSCI Taiwan ETF
+40046.0,7784.0,Futu Holdings (Derivatives),FUTU,futu-holdings-derivatives,Futu Holdings
+40064.0,7788.0,Bloom Energy Corp (Derivatives),BE,bloom-energy-corp-derivatives,Bloom Energy Corp
+40065.0,7789.0,CrowdStrike Holdings Inc (Derivatives),CRWD,crowdstrike-holdings-inc-derivatives,CrowdStrike Holdings Inc
+40067.0,7790.0,Applied Optoelectronics Inc (Derivatives),AAOI,applied-optoelectronics-inc-derivatives,Applied Optoelectronics Inc
+40068.0,7791.0,Infleqtion Inc (Derivatives),INFQ,infleqtion-inc-derivatives,Infleqtion Inc
+40072.0,7792.0,Nokia Oyj (Derivatives),NOK,nokia-oyj-derivatives,Nokia Oyj
+40087.0,7794.0,Applied Materials Inc (Derivatives),AMAT,applied-materials-inc-derivatives,Applied Materials Inc
+40088.0,7795.0,Dell Technologies (Derivatives),DELL,dell-technologies-derivatives,Dell Technologies
+40089.0,7796.0,Vertiv Holdings Co (Derivatives),VRT,vertv-holdings-co-derivatives,Vertiv Holdings Co
+40094.0,7797.0,Quantinuum Inc (Derivatives),QNTX,quantinuum-inc-derivatives,Quantinuum Inc
+40104.0,7798.0,Novo Nordisk (Derivatives),NVO,novo-nordisk-derivatives,Novo Nordisk
+40105.0,7799.0,BlackBerry Ltd (Derivatives),BB,blackberry-ltd-derivatives,BlackBerry Ltd
+40106.0,7800.0,Redwire Corp (Derivatives),RDW,redwire-corp-derivatives,Redwire Corp
+40107.0,7801.0,Intuitive Machines Inc (Derivatives),LUNR,intuitive-machikes-inc-derivatives,Intuitive Machines Inc
+40108.0,7802.0,AST SpaceMobile Inc (Derivatives),ASTS,ast-spacemobile-inc-derivatives,AST SpaceMobile Inc
+40111.0,7803.0,ServiceNow Inc (Derivatives),NOW,servicenow-inc-derivatives,ServiceNow Inc
+40112.0,7804.0,Hewlett Packard Enterprise Co (Derivatives),HPE,hewlett-packard-enterprise-co-derivatives,Hewlett Packard Enterprise Co
+40113.0,7805.0,Hims & Hers Health (Derivatives),HIMS,hims-hers-health-derivatives,Hims & Hers Health
+40115.0,7806.0,Adobe Inc (Derivatives),ADBE,adobe-inc-derivatives,Adobe Inc
+40116.0,7807.0,Salesforce Inc (Derivatives),CRM,salesforce-inc-derivatives,Salesforce Inc
+40117.0,7808.0,IREN Ltd (Derivatives),IREN,iren-ltd-derivatives,IREN Ltd
+40118.0,7809.0,Ondas Inc (Derivatives),ONDS,ondas-inc-derivatives,Ondas Inc
+40125.0,7811.0,TTM Technologies Inc (Derivatives),TTMI,ttm-technologies-inc-derivatives,TTM Technologies Inc
+40199.0,7813.0,Palo Alto Networks Inc (Derivatives),PANW,palo-alto-networks-inc-derivatives,Palo Alto Networks Inc
+40203.0,7814.0,Credo Technology Group Holding Ltd (Derivatives),CRDO,credo-technology-group-holding-ltd-derivatives,Credo Technology Group Holding Ltd
+40204.0,7815.0,AXT Inc (Derivatives),AXTI,axt-inc-derivatives,AXT Inc
+40222.0,7816.0,DraftKings Inc (Derivatives),DKNG,draftkings-inc-derivatives,DraftKings Inc
+40227.0,7820.0,Ciena Corp (Derivatives),CIEN,ciena-corp-derivatives,Ciena Corp
+40228.0,7821.0,Intuitive Surgical Inc (Derivatives),ISRG,intuitive-surgical-inc-derivatives,Intuitive Surgical Inc
+40229.0,7822.0,ProShares Ultra VIX Short-Term Futures ETF (Derivatives),UVXY,proshares-ultra-vix-short-term-futures-etf-derivatives,ProShares Ultra VIX Short-Term Futures ETF
+40230.0,7823.0,Seagate Technology Holdings PLC (Derivatives),STX,seagate-technology-holdings-plc-derivatives,Seagate Technology Holdings PLC
+40234.0,7826.0,Twilio Inc (Derivatives),TWLO,twilio-inc-derivatives,Twilio Inc
+40235.0,7827.0,Rockwell Automation Inc (Derivatives),ROK,rockwell-automation-inc-derivatives,Rockwell Automation Inc
+40517.0,7829.0,Astera Labs Inc (Derivatives),ALAB,astera-labs-inc-derivatives,Astera Labs Inc
+40519.0,7830.0,POET Technologies Inc (Derivatives),POET,poet-technologies-inc-derivatives,POET Technologies Inc
+40543.0,7837.0,Knowledge Atlas Technology JSC Ltd (Derivatives),ZHIPU,knowledge-atlas-technology-jsc-ltd-derivatives,Knowledge Atlas Technology JSC Ltd
+40547.0,7838.0,Lam Research Corp (Derivatives),LRCX,lam-research-corp-derivatives,Lam Research Corp
+40548.0,7839.0,KLA Corp (Derivatives),KLAC,kla-corp-derivatives,KLA Corp
+40549.0,7840.0,Super Micro Computer Inc (Derivatives),SMCI,super-micro-computer-inc-derivatives,Super Micro Computer Inc
+40551.0,7841.0,Direxion Daily MSCI South Korea Bull 3X ETF (Derivatives),KORU,direxion-daily-msci-south-korea-bull-3x-etf-derivatives,Direxion Daily MSCI South Korea Bull 3X ETF
+40552.0,7842.0,Sony Group Corp (Derivatives),SONY,sony-group-corp-derivatives,Sony Group Corp
+40557.0,7845.0,Strategy Variable Rate Perpetual Stretch (Derivatives),STRC,strategy-variable-rate-perpetual-stretch-derivatives,Strategy Variable Rate Perpetual Stretch
+40559.0,7846.0,GraniteShares 2x Long MRVL Daily ETF (Derivatives),MVLL,graniteshares-2x-long-mrvl-daily-etf-derivaties,GraniteShares 2x Long MRVL Daily ETF
+40560.0,7847.0,ProShares UltraPro QQQ (Derivatives),TQQQ,proshares-ultrapro-qqq-derivatives,ProShares UltraPro QQQ
+40561.0,7848.0,ProShares UltraPro Short QQQ (Derivatives),SQQQ,proshares-ultrapro-short-qqq-derivatives,ProShares UltraPro Short QQQ
+40570.0,7850.0,SoftBank Group Corp (Derivatives),9984,softbank-group-corp-derivatives,SoftBank Group Corp
+40575.0,7853.0,Wendy's Co (Derivatives),WEN,wendys-co-derivatives,Wendy's Co
+40576.0,7854.0,Tower Semiconductor Ltd (Derivatives),TSEM,tower-semiconductor-ltd-derivatives,Tower Semiconductor Ltd
+40577.0,7855.0,Kioxia Holdings Corp (Derivatives),KIOXIA,kioxia-holdings-corp-derivatives,Kioxia Holdings Corp
+40584.0,7856.0,RoboStrategy Inc (Derivatives),BOT,robostrategy-inc-derivatives,RoboStrategy Inc
+40675.0,7858.0,Direxion Daily MU Bull 2X ETF (Derivatives),MUU,direxion-daily-mu-bull-2x-etf-derivatives,Direxion Daily MU Bull 2X ETF
+40676.0,7859.0,Roundhill T-REX 2X Long DRAM Daily Target ETF (Derivatives),RAM,roundhill-t-rex-2x-long-dram-daily-target-etf-derivatives,Roundhill T-REX 2X Long DRAM Daily Target ETF
+40677.0,7860.0,Bending Spoons SpA (Derivatives),BSP,bending-spoons-spa-derivatives,Bending Spoons SpA
+40678.0,7861.0,KraneShares SSE STAR Market 50 Index ETF (Derivatives),KSTR,kraneshares-sse-star-market-50-index-etf-derivatives,KraneShares SSE STAR Market 50 Index ETF
+40679.0,7862.0,"Take-Two Interactive Software, Inc. Common Stock (Derivatives)",TTWO,take-two-interactive-software-inc-common-stock-derivatives,"Take-Two Interactive Software, Inc. Common Stock"
+40680.0,7863.0,"Teradyne, Inc. Common Stock (Derivatives)",TER,teradyne-inc-common-stock-derivatives,"Teradyne, Inc. Common Stock"
+40681.0,7864.0,Flex Ltd. Ordinary Shares (Derivatives),FLEX,flex-ltd-ordinary-shares-derivatives,Flex Ltd. Ordinary Shares
+40682.0,7865.0,Texas Instruments Incorporated Common Stock (Derivatives),TXN,texas-instruments-incorporated-common-stock-derivatives,Texas Instruments Incorporated Common Stock
+40683.0,7866.0,"Caterpillar, Inc. Common Stock (Derivatives)",CAT,caterpillar-inc-common-stock-derivatives,"Caterpillar, Inc. Common Stock"
+40802.0,7877.0,Applied Digital Corp (Derivatives),APLD,applied-digital-corp-derivatives,Applied Digital Corp
+40804.0,7879.0,Oscar Health Inc (Derivatives),OSCR,oscar-health-inc-derivatives,Oscar Health Inc
+40807.0,7880.0,SharonAI Holdings Inc (Derivatives),SHAZ,sharonai-holdings-inc-derivatives,SharonAI Holdings Inc
+40820.0,7882.0,Johnson & Johnson (Derivatives),JNJ,johnson-johnson-derivatives,Johnson & Johnson
+40822.0,7883.0,Penguin Solutions Inc (Derivatives),PENG,penguin-solutions-inc-derivatives,Penguin Solutions Inc
+40824.0,7884.0,SK Hynix (Derivatives),SKHY,sk-hynix-derivatives,SK Hynix
+40825.0,7885.0,GraniteShares 2x Long INTC Daily ETF (Derivatives),INTW,graniteshares-2x-long-intc-daily-etf-derivaties,GraniteShares 2x Long INTC Daily ETF
+40826.0,7886.0,Tradr 2X Long SNDK Daily ETF (Derivatives),SNXX,tradr-2x-long-sndk-daily-etf-derivaties,Tradr 2X Long SNDK Daily ETF
+40827.0,7887.0,State Street SPDR S&P Biotech ETF (Derivatives),XBI,state-street-spdr-sp-biotech-etf-derivaties,State Street SPDR S&P Biotech ETF
+40828.0,7888.0,CEA Industries Inc (Derivatives),BNC,cea-industries-inc-derivaties,CEA Industries Inc
+40829.0,7889.0,Forward Industries Inc (Derivatives),FWDI,forward-industries-inc-derivaties,Forward Industries Inc
+40843.0,7892.0,Snowflake Inc (Derivatives),SNOW,snowflake-inc-derivaties,Snowflake Inc
+40857.0,7894.0,ChangXin Memory Technologies (Derivatives),CXMT,changxin-memory-technologies-derivaties,ChangXin Memory Technologies
+40862.0,7895.0,Direxion Daily Semiconductor Bear 3X Shares (Derivatives),SOXS,direxion-daily-semiconductor-bear-3x-shares-derivaties,Direxion Daily Semiconductor Bear 3X Shares
+40863.0,7896.0,Direxion Daily Small Cap Bear 3X ETF (Derivatives),TZA,direxion-daily-small-cap-bear-3x-etf-derivaties,Direxion Daily Small Cap Bear 3X ETF
+40864.0,7897.0,Tencent Holdings (Derivatives),0700,tencent-holdings-derivatives,Tencent Holdings
+40888.0,7899.0,SoFi Technologies Inc (Derivatives),SOFI,sofi-technologies-inc-derivaties,SoFi Technologies Inc
+40894.0,7900.0,Xiaomi (Derivatives),XIAOMI,xiaomi-derivatives,Xiaomi
+40911.0,7903.0,Direxion Daily 20+ Year Treasury Bull 3X Shares (Derivatives),TMF,direxion-daily-20-plus-year-treasury-bull-3x-shares-derivatives,Direxion Daily 20+ Year Treasury Bull 3X Shares
+40912.0,7904.0,ProShares UltraShort 20+ Year Treasury (Derivatives),TBT,proshares-ultrashort-20-plus-year-treasury-derivatives,ProShares UltraShort 20+ Year Treasury
+40913.0,7905.0,ProShares Bitcoin ETF (Derivatives),BITO,proshares-bitcoin-etf-derivatives,ProShares Bitcoin ETF
+40941.0,7906.0,PayPal Holdings Inc (Derivatives),PYPL,paypal-holdings-inc-derivaties,PayPal Holdings Inc
+40942.0,7907.0,Goldman Sachs Group Inc (Derivatives),GS,goldman-sachs-group-inc-derivaties,Goldman Sachs Group Inc
+40126.0,,Modine Manufacturing Co (Derivatives),MOD,modine-manufacturing-co-derivatives,Modine Manufacturing Co
+40784.0,,Valvoline Inc (Derivatives),VVV,valvoline-inc-derivatives,Valvoline Inc
+39484.0,,Global X Lithium & Battery Tech ETF (Derivatives),LIT,global-x-lithium-battery-tech-etf-derivatives,Global X Lithium & Battery Tech ETF
+39494.0,,Aluminium (Derivatives),ALI,aluminium-derivatives,Aluminium
+39506.0,,Nuclear Energy (Derivatives),NUCLEAR,nuclear-energy-derivatives,Nuclear Energy
+39508.0,,Energy Sector (Derivatives),ENERGY,energy-sector-derivatives,Energy Sector
+39511.0,,Uranium (Derivatives),URANIUM,uranium-derivatives,Uranium
+39518.0,,USBOND (Derivatives),USBOND,usbond-derivatives,USBOND
+39575.0,,Korea Composite Stock Price Index (Derivatives),KOSPI,korea-composite-stock-price-index-derivatives,Korea Composite Stock Price Index
+39672.0,,Hanmi Semiconductor Co Ltd (Derivatives),042700,hanmi-semiconductor-co-ltd-derivatives,Hanmi Semiconductor Co Ltd
+39673.0,,State Street SPDR Dow Jones DIA ETF Trust (Derivatives),DIA,state-street-spdr-dow-jones-dia-etf-trust-derivatives,State Street SPDR Dow Jones DIA ETF Trust
+39896.0,,Avis Budget Group (Derivatives),CAR,avis-budget-group-derivatives,Avis Budget Group
+40124.0,,Qnity Electronics Inc (Derivatives),Q,qnity-electronics-inc-derivatives,Qnity Electronics Inc
+40236.0,,Cognex Corp (Derivatives),CGNX,cognex-corp-derivatives,Cognex Corp
+40518.0,,Teradyne Inc (Derivatives),TER,teradyne-inc-derivatives,Teradyne Inc
+40564.0,,Stripe (Derivatives),STRIPE,stripe-derivatives,Stripe
+40800.0,,ON Semiconductor Corp (Derivatives),ON,on-semiconductor-corp-derivatives,ON Semiconductor Corp
